@@ -34,9 +34,9 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>We don't really use the camera.</string>
+	<string>We don&apos;t really use the camera.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>We don't really use the microphone.</string>
+	<string>We don&apos;t really use the microphone.</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationLandscapeRight</string>
@@ -144,6 +144,6 @@
 		</dict>
 	</array>
 	<key>LSApplicationCategoryType</key>
-	<string>public.app-category.music-games</string>
+	<string>public.app-category.entertainment</string>
 </dict>
 </plist>
